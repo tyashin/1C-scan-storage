@@ -1,1 +1,5 @@
-# 1C-scans-storage
+## 1C-scan-storage
+
+Подключаемое к типовым конфигурациям 1С хранилище сканов документов.
+
+Work in progress
